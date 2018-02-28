@@ -4,5 +4,5 @@ This is a shell site for McMUN. In case of maintenance or to give a canonical in
 
 https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages 
 
-Author: Pranay Yadav Gadaveni
-McMUN 2018
+# Author: Pranay Yadav Gadaveni
+# McMUN 2018
